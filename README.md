@@ -9,3 +9,13 @@ This repo contains notes and cheatsheets for some of the courses which I have ta
 * PL3102 Biological Psychology ([notes](pl3102/))
 * PL3106 Abnormal Psychology ([notes (incomplete)](pl3106/pl3106.pdf), [cheatsheet](pl3106/pl3106-cheatsheet.pdf))
 * PL3249 Memory ([notes](pl3249/pl3249.pdf))
+
+## Pending
+Notes taken in the current semester will be uploaded by the end of November 2022.
+
+* CS3210 Parallel Computing
+* CS4225 Big Data Systems for Data Science
+* CS5228 Knowledge Discovery and Data Mining
+* CS5234 Algorithms at Scale
+* CS6203 Advanced Topics in Database Systems [may not be included...]
+* PL3105 Social Psychology
